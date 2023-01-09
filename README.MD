@@ -4,7 +4,7 @@
 
 #### [ 배포주소 ](http://aa45ad59075e14ae2a4538dee06b9869-1628875909.ap-northeast-3.elb.amazonaws.com/)
 
-#### [ 기획안 Notion ](https://ivy-feather-a16.notion.site/NETCHA-7aee2612452f4fabaf02ba541b3e78f8)
+#### [ 기획안 Notion ](https://www.notion.so/Multicampus-project-bdc0abab72cc42d297399b5f6ccc9e21)
 
 ## 🖥 프로젝트 기획 배경
 
